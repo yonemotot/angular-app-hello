@@ -1,0 +1,22 @@
+#body {
+  margin-top: 75px;
+
+}
+
+h1{
+  font-size:60pt;
+  letter-spacing: -5px;
+  color:lightblue;
+  position: absolute;
+  top:-70px;
+  right:0px;
+}
+
+p{
+  font-size: 18pt;
+}
+
+.red {
+  color:white;
+  background-color: red;
+}
